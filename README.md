@@ -1,4 +1,4 @@
-# sms_spam_detector# 📱 SMS Spam Classifier
+📱 SMS Spam Classifier
 
 This is a simple machine learning web application that classifies SMS text messages as **spam** or **not spam**. The app is built with Python using `scikit-learn` for model training and `Gradio` for an interactive interface.
 
